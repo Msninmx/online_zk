@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/test/"}
+{"dg-publish":true,"permalink":"/test/","tags":"gardenEntry"}
 ---
-
 ---
-dg-home: true
-dg-publish: true
 ---
 Homepage
